@@ -572,7 +572,8 @@ img {
 body {
     line-height: 130%;
     color: rgb(123, 120, 118);
-    background: url('../img/bg-anel.jpg') no-repeat fixed center top #44742f;
+    background: #44742f;
+    /*background: url('../img/bg-anel.jpg') no-repeat fixed center top #44742f;*/
     -webkit-background-size: cover;
     background-size: cover;
 }
